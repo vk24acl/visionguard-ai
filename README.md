@@ -2,6 +2,8 @@
 
 **A small neural vision system that shows its mistakes, confidence and limits.**
 
+**[Try the live interactive demo](https://vk24acl.github.io/visionguard-ai/)** · [Automated checks](https://github.com/vk24acl/visionguard-ai/actions)
+
 An AI-assisted portfolio implementation by **Vikas Reddy Konreddy**.
 
 ![Measured neural evaluation](reports/overview.svg)
